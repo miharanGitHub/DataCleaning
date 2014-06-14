@@ -1,6 +1,3 @@
-dir<-"C:/Users/nmha/Documents/Coursera"
-setwd(dir)
-
 library(reshape2)
 
 # Read the data sets 
